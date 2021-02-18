@@ -3,7 +3,7 @@
 
 This is the repository containing the data for paper "Studying Duplicate Logging Statements and Their Relationships with Code Clones". 
 
-- `LoggingStatement.zip` contains the logging statements with their related information extracted from the studied systems
+- `LoggingStatement.zip` contains the logging statements with their related information extracted from the studied systems.
   For each line of logging statement:
   - `logcall` represents for the logging library that a logging statement invokes
   - `parameter` lists all the parameters of this logging statement (including static message and dynamic variables)
